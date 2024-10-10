@@ -1,5 +1,4 @@
 // initlizing the map and set the view
-
 var map = L.map('map').setView([20,0], 2);
 
 // add a tile layer (basemap) from the openstreetmap
